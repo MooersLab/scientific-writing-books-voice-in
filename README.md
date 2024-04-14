@@ -3,11 +3,14 @@
 
 # Books about scientific writing as voice-in plus commands
 
-This repository contains a csv file that has a list of books about academic writing for scientists that maps to what I call voice triggers.
-You say the voice trigger and the corresponding chunk of prose is inserted into the text area of a web browser when using the Voice In Plus plug-in for Google Chrome or Microsoft Edge.
+This repository contains a CSV file with a list of books about academic writing for scientists.
+Each book is mapped to a voice trigger.
+Say the voice trigger and the corresponding chunk of prose will be inserted into the text area of a web browser when using the Voice In Plus plug-in for Google Chrome or Microsoft Edge.
 The commands in the csv file are uploaded into your Voice In account using the `bulk add` option in the configuration page for this plugin.
+The book titles are in a \emph{} macro to italicize them.
+Replace with flanking asterisks when using Markdown.
 
-Anyway, this is a list of books that I have found useful for writing scientific articles.
+This is a list of books I have found helpful in writing scientific articles.
 
 
 |Version      | Changes                                                                                                                                    | Date                 |
