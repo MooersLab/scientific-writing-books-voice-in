@@ -7,7 +7,7 @@ This repository contains a CSV file with a list of books about academic writing 
 Each book is mapped to a voice trigger.
 Say the voice trigger and the corresponding chunk of prose will be inserted into the text area of a web browser when using the Voice In Plus plug-in for Google Chrome or Microsoft Edge.
 The commands in the csv file are uploaded into your Voice In account using the `bulk add` option in the configuration page for this plugin.
-The book titles are in a \emph{} macro to italicize them.
+The book titles are in a LaTeX `\emph{}` macro to italicize them.
 Replace with flanking asterisks when using Markdown.
 
 This is a list of books I have found helpful in writing scientific articles.
