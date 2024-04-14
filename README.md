@@ -21,5 +21,6 @@ This is a list of books I have found helpful in writing scientific articles.
 
 ## Funding sources
 
+NIH:  
 R01 CA242845, R01 AI088011  
-NIH: P30 CA225520 (PI: R. Mannel); P20GM103640 and P30GM145423 (PI: A. West)
+P30 CA225520 (PI: R. Mannel); P20GM103640 and P30GM145423 (PI: A. West)
